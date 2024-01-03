@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.10.3",
+    "aos": "^2.3.4",
     "nuxt-icon": "^0.6.8",
     "radix-vue": "^1.2.5"
   }
